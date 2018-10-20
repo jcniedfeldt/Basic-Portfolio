@@ -17,6 +17,7 @@ body{
 a{
     text-decoration: none;
     padding-left: 10px;
+    color: #777777;
 }
 nav{
     float: right;
